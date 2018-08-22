@@ -1,0 +1,16 @@
+"UserMessages"
+{
+	"Shake"
+	{
+		"command"		"byte"
+		"amplitude"		"float"
+		"frequency"		"float"
+		"duration"		"float"
+	}
+	"HudNotifyCustom"
+	{
+		"message"		"string"
+		"icon"			"string"
+		"team"			"byte"
+	}
+}
